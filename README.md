@@ -1,11 +1,5 @@
 ![logo](https://github.com/JawadGigyani/JawadGigyani/blob/main/Banner.png)
 
-<style>
-  .padding {
-    margin: 10px; 
-    padding: 10px;
-  }
-</style>
 
 <h1 align="center">Hello, I am Muhammad Jawad</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
